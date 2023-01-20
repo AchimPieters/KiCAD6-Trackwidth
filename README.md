@@ -7,7 +7,7 @@ KiCAD 6 - Track width
 <br>
 <br>
 <img  style="float: right;" src="https://github.com/AchimPieters/ESP32-SmartPlug/blob/main/images/MIT%7C%20HARDWARE%20WHITE.svg" width="100">
-<br>
+
 <b>MIT HARDEWARE LICENSES</b>
 
 <sup>Copyright (c) 2023 StudioPieters | Achim Pieters</sup>
