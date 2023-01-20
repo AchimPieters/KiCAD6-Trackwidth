@@ -1,5 +1,5 @@
 # KiCAD6-Trackwidth
-KiCAD 6 - Track width
+Track width template for KiCAD 6
 
 <br>
 <br>
