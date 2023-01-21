@@ -27,7 +27,9 @@
 
 <img  style="float: right;" src="https://github.com/AchimPieters/KiCAD6-Trackwidth/blob/main/image/Import.png" width="300">
 
+<sup>DO YOU LIKE THIS REPOSITORY? CONSIDER A SMALL DONATION BY CLICKING THIS BUTTON</sup>
 
+<a href="https://paypal.me/AJFPieters?country.x=NL&locale.x=en_US"><img  style="float: right;" src="https://github.com/AchimPieters/Fritzing-Custom-Parts/blob/master/Fritzing%20Parts/Buy%20me%20a%20Coffee.svg" width="200"></a>
 <br>
 <br>
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
