@@ -1,12 +1,10 @@
 # KICAD6 - TRACK WIDTH
 <sup>TRACK WIDTH TEMPLATE FOR KICAD 6.0.10 AND UP</sup>
-
 <br>
 <br>
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
-
 #### <B>HOW TO USE </B>
 
 <sup>CLONE THIS REPOSITORY `GIT CLONE --RECURSIVE HTTPS://GITHUB.COM/ACHIMPIETERS/KICAD6-TRACKWIDTH.GIT`</sup>
