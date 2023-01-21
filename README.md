@@ -11,12 +11,17 @@
 
 <sup>OPEN THE `PULL-DOWN MENU` AND SELECT `EDIT PREDEFINE SIZES`. </sup>
 
+<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD6-Trackwidth/blob/main/image/Edit_Predifined_sizes.png" width="200">
+
 <sup>A NEW WINDOW WILL OPEN CALLED `BOARD SETUP`. </sup>
 
-<sup>IN THE LEFT CORNER U SEE A BUTTON CALLED `IMPORT SETTINGS FROM ANOTHER BOADR...`</sup>
+<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD6-Trackwidth/blob/main/image/Board_setup.png" width="300">
+
+<sup>IN THE LEFT CORNER U SEE A BUTTON CALLED `IMPORT SETTINGS FROM ANOTHER BOARD...`</sup>
 
 <sup>SELECT THIS REPOSITORY AND SELECT `IMPORT SETTINGS`.</sup>
 
+<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD6-Trackwidth/blob/main/image/Import.png" width="300">
 
 
 <br>
