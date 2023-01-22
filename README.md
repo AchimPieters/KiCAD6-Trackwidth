@@ -8,6 +8,29 @@
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
+
+<b>FREE CUSTOM KICAD SCHEMATICS FOLDER</b>
+
+<sup>A CUTOM FOLDER IMAGE, TO QUICKLY FIND THE RIGHT FOLDER.</sup>
+
+<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD-Schematics/blob/main/image/Kicad-schematics_Folder.png" width="100">
+
+<sup>CHOOSE `FILE` THEN `GET INFO` IN THE MENU BAR.</sup>
+
+<sup>AT THE TOP OF THE INFO WINDOW, CLICK THE `SMALL FOLDER ICON`.</sup>
+
+<sup>`DRAG` THE NEW ICON ONTO THE SMALL ICON. `DONE`.</sup>
+
+
+
+
+
+
+<br>
+<br>
+<sup>_____________________________________________________________________________________________________________________________________________</sup>
+<br>
+<br>
 #### <B>HOW TO USE </B>
 
 <sup>CLONE THIS REPOSITORY `GIT CLONE --RECURSIVE HTTPS://GITHUB.COM/ACHIMPIETERS/KICAD6-TRACKWIDTH.GIT`</sup>
