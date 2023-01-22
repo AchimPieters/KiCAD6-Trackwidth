@@ -13,7 +13,7 @@
 
 <sup>A CUTOM FOLDER IMAGE, TO QUICKLY FIND THE RIGHT FOLDER.</sup>
 
-<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD-Schematics/blob/main/image/Kicad-schematics_Folder.png" width="100">
+<img  style="float: right;" src="https://github.com/AchimPieters/KiCAD6-Trackwidth/blob/main/image/Kicad-trackwidth_Folder.png" width="100">
 
 <sup>CHOOSE `FILE` THEN `GET INFO` IN THE MENU BAR.</sup>
 
