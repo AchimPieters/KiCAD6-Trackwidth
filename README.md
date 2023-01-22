@@ -31,7 +31,8 @@
 <sup>_____________________________________________________________________________________________________________________________________________</sup>
 <br>
 <br>
-#### <B>HOW TO USE </B>
+
+<B>HOW TO USE </B>
 
 <sup>CLONE THIS REPOSITORY `GIT CLONE --RECURSIVE HTTPS://GITHUB.COM/ACHIMPIETERS/KICAD6-TRACKWIDTH.GIT`</sup>
 
